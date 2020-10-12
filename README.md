@@ -1,2 +1,6 @@
 # hello-world2
-learn something
+
+Hi Humans!
+
+Bellic here, I like php and javascript.
+I'm learning this while at work ;).
